@@ -13,8 +13,8 @@ const axios = require('axios')
 
 //---------[ PROPIETARIO/OWNER ]---------
 global.owner = [
-    ["50582340051", "Owner", true],
-    ["595984838201"],
+    ["593993545749", "Owner", true],
+    ["593986860164"],
     ["51918534156"],
     ["123456789"]
 ]
